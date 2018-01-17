@@ -20,7 +20,7 @@ public class amali {
     int kerja_ot;
     int gaji;
     
-    System.out.print("Sila masukkan nama anda :");
+    System.out.print("Sila masukkan nama saya :");
     nama=scan.nextLine();
     System.out.print("Sila masukkan jam bekerja :");
     jam_kerja=scan.nextInt();
